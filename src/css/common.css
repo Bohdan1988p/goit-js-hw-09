@@ -16,3 +16,15 @@ img {
   display: block;
   max-width: 100%;
 }
+.timer{
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+.timerStartBtn{
+  margin-left: 20px;
+  border-radius: 15px;
+}
+
+
+
